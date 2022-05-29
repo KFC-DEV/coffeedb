@@ -1,11 +1,11 @@
-<h2>PlusDB</h2>
+<h2>Coffee.db</h2>
 
-[![plusdb](https://img.shields.io/badge/type-db-black.svg)](https://www.npmjs.org/package/typedb)
-[![npm version](https://img.shields.io/npm/v/typedb.svg?style=flat-square)](https://www.npmjs.org/package/typedb)
-[![install size](https://packagephobia.now.sh/badge?p=plusdb)](https://packagephobia.now.sh/result?p=typedb)
-[![npm downloads](https://img.shields.io/npm/dm/typedb.svg?style=flat-square)](http://npm-stat.com/charts.html?package=typedb)
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jesuswasmychoice/typedb/blob/main/LICENSE)
-[![Discord](https://img.shields.io/discord/675217083155480577?color=%237289DA&label=Discord)](https://discord.gg/invite-code)
+[![plusdb](https://img.shields.io/badge/coffee-db-black.svg)](https://www.npmjs.org/package/coffee.db)
+[![npm version](https://img.shields.io/npm/v/coffee.db.svg?style=flat-square)](https://www.npmjs.org/package/coffee.db)
+[![install size](https://packagephobia.now.sh/badge?p=coffee.db)](https://packagephobia.now.sh/result?p=coffee.db)
+[![npm downloads](https://img.shields.io/npm/dm/coffeedb.svg?style=flat-square)](http://npm-stat.com/charts.html?package=coffee.db)
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jesuswasmychoice/coffee.db/blob/main/LICENSE)
+[![Discord](https://img.shields.io/discord/675217083155480577?color=%237289DA&label=Discord)](https://discord.gg/TpNWrwENzr)
 
 > Simple, convenient JSON database for nodejs.
 
@@ -16,7 +16,7 @@ Released v0.1.4 now.
 
 Installing the npm package
 ```console
-$ npm install typedb
+$ npm install coffee.db
 ```
 Usage of plusdb
 ```js
