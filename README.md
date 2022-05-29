@@ -20,7 +20,7 @@ $ npm install coffee.db
 ```
 Usage of plusdb
 ```js
-const { Database } = require("typedb");
+const { Database } = require("coffee.db");
 const db = new Database("myDataBase");
 ```
 
