@@ -9,7 +9,7 @@
 
 > Simple, convenient JSON database for nodejs.
 
-Released v0.1.4 now.
+Released v0.1.6 now.
 <hr>
 
 # Getting Started
