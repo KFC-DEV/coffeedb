@@ -1,10 +1,10 @@
 <h2>Coffee.db</h2>
 
-[![plusdb](https://img.shields.io/badge/coffee-db-black.svg)](https://www.npmjs.org/package/coffee.db)
-[![npm version](https://img.shields.io/npm/v/coffee.db.svg?style=flat-square)](https://www.npmjs.org/package/coffee.db)
-[![install size](https://packagephobia.now.sh/badge?p=coffee.db)](https://packagephobia.now.sh/result?p=coffee.db)
-[![npm downloads](https://img.shields.io/npm/dm/coffeedb.svg?style=flat-square)](http://npm-stat.com/charts.html?package=coffee.db)
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jesuswasmychoice/coffee.db/blob/main/LICENSE)
+[![plusdb](https://img.shields.io/badge/coffee-db-black.svg)](https://www.npmjs.org/package/coffeedb)
+[![npm version](https://img.shields.io/npm/v/coffeedb.svg?style=flat-square)](https://www.npmjs.org/package/coffee.db)
+[![install size](https://packagephobia.now.sh/badge?p=coffeedb)](https://packagephobia.now.sh/result?p=coffeedb)
+[![npm downloads](https://img.shields.io/npm/dm/coffeedb.svg?style=flat-square)](http://npm-stat.com/charts.html?package=coffeedb)
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jesuswasmychoice/coffeedb/blob/main/LICENSE)
 [![Discord](https://img.shields.io/discord/675217083155480577?color=%237289DA&label=Discord)](https://discord.gg/TpNWrwENzr)
 
 > Simple, convenient JSON database for nodejs.
@@ -16,11 +16,11 @@ Released v0.1.4 now.
 
 Installing the npm package
 ```console
-$ npm install coffee.db
+$ npm install coffeedb
 ```
-Usage of plusdb
+Usage of coffeedb
 ```js
-const { Database } = require("coffee.db");
+const { Database } = require("coffeedb");
 const db = new Database("myDataBase");
 ```
 
@@ -28,7 +28,7 @@ const db = new Database("myDataBase");
 
 # Documentation
 
-- [new typeDB(settings)](#typeDB)
+- [new coffeeDB(settings)](#coffeedb)
   - add(id, value)
   - all()
   - clear()
@@ -44,7 +44,7 @@ const db = new Database("myDataBase");
 - [DatabaseError](#DatabaseError)
 
 ## new typeDB(settings)
-<div class="typeDB"></div>
+<div class="coffeeDB"></div>
 
 Creates or gets a database file
 - **Params:**
