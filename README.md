@@ -1,6 +1,6 @@
 <h2>Coffee.db</h2>
 
-[![plusdb](https://img.shields.io/badge/coffee-db-black.svg)](https://www.npmjs.org/package/coffeedb)
+[![coffeedb](https://img.shields.io/badge/coffee-db-black.svg)](https://www.npmjs.org/package/coffeedb)
 [![npm version](https://img.shields.io/npm/v/coffeedb.svg?style=flat-square)](https://www.npmjs.org/package/coffee.db)
 [![install size](https://packagephobia.now.sh/badge?p=coffeedb)](https://packagephobia.now.sh/result?p=coffeedb)
 [![npm downloads](https://img.shields.io/npm/dm/coffeedb.svg?style=flat-square)](http://npm-stat.com/charts.html?package=coffeedb)
